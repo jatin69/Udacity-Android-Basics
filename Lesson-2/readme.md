@@ -32,7 +32,7 @@
 
 ## Resouces
 
-- [Common Android Views Cheat Sheet](./Common Android Views Cheat Sheet.pdf)
+- [Common Android Views Cheat Sheet](./CommonAndroidViewsCheatSheet.pdf)
 - [Android Vocab by Google](https://developers.google.com/android/for-all/vocab-words) - quick lookup for commonly used terms in android
 - [XML Visualiser](http://labs.udacity.com/android-visualizer/#/android/linear-layout-weight) - to practice XML 
 - [Material Design Guidelines](https://material.io/guidelines/#) - for consistency and uniformity of fonts and sizes across views and activities
